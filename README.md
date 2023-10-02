@@ -16,8 +16,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href = "joaoleal98@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue
-" target="_blank"></a>
+  <a href = "joaoleal98@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-leal-de-castro-50871126a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!--
