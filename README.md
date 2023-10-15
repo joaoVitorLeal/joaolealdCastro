@@ -13,7 +13,7 @@
  
 <br>
  
-### Contatos abaixo 👇!
+### Contatos abaixo!
  
 <div> 
   <a href = "joaoleal98@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%2300f?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
