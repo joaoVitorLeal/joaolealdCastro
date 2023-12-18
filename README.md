@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-   <a href="https://github.com/joaoVitorLeal/joaolealdCastro">
+   <a href="https://github.com/joaoVitorLeal">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoVitorLeal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVitorLeal&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
