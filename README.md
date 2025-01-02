@@ -19,7 +19,7 @@
  
 <div> 
   <a href = "joaoleal98@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%2300f?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-leal-de-castro-50871126a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaovlc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **joaoVitorLeal/joaoVitorLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
